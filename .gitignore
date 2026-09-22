@@ -1,0 +1,21 @@
+Debug/
+Release/
+*.elf
+*.bin
+*.map
+*.o
+*.d
+*.su
+
+Drivers/
+
+.metadata/
+.settings/
+*.launch
+.project
+.cproject
+
+*.pdsbak
+*.BACKUP*
+*_tmp_*
+Last Loaded*
