@@ -18,4 +18,5 @@ Drivers/
 *.pdsbak
 *.BACKUP*
 *_tmp_*
+*.asm
 Last Loaded*
